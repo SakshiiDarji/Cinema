@@ -15,6 +15,6 @@ I have used **1 State Design Pattern**, and In the Souvenir and food section, I 
 
 # UML Diagram Of Application
 
-<a href="https://drive.google.com/file/d/1MJvDUeqHFFQuRvGFEyq8_sSgapDKsztr/view?usp=drive_link">Click</a>
+<a href="https://drive.google.com/file/d/1MJvDUeqHFFQuRvGFEyq8_sSgapDKsztr/view?usp=drive_link">Click here to download the UML diagram</a>
 
 
