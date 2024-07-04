@@ -13,5 +13,8 @@
 I have used **1 State Design Pattern**, and In the Souvenir and food section, I have used **2 Builder Design Pattern**
 <p>Through out the whole application, we are using OOP concepts and proper codes.</p>
 
+# UML Diagram Of Application
+
+<a href="https://drive.google.com/file/d/1MJvDUeqHFFQuRvGFEyq8_sSgapDKsztr/view?usp=drive_link">Click</a>
 
 
