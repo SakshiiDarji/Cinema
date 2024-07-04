@@ -1,6 +1,6 @@
 # Cinema
 
-<p>This is Console Java application (Cinema) made through intellij plateform.</p>
+<p>This is Console Java application (Cinema) made through intellij plateform. It is my academic group project.</p>
 <p>Through this application, user can see the report of previously chosen movie or cart, can add new movie.</p>
 <p>This Cinema System also has Souvenir to buy cloths and other things, and it also Food and Drinks Cafe</p>
 <p>After selecting the movie ticket, user can see options for Souvenir and cafe</p>
